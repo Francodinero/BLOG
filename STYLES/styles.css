@@ -1,0 +1,56 @@
+.header1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;
+}
+.active{
+    color: rgb(175, 88, 7);
+    margin-right: 100px;
+    text-decoration: none;
+}
+.activeabout{
+    color:red;
+    margin-right: 100px;
+    text-decoration: none;
+}
+.activeblog{
+    color: white;
+    margin-right: 100px;
+    text-decoration: none;
+}
+.activecontact{
+    color:rgb(17, 180, 17);
+    margin-right: 100px;
+    text-decoration: none;
+}
+.topnav{
+    padding: 10px;
+    background-color: rgb(5, 4, 5);
+    display: flex;
+    flex-direction: row-reverse;
+    text-decoration: none;
+}
+.bottomnav{
+    padding: 20px;
+    background-color: #242527;
+    display: flex;
+    flex-direction: initial;
+    margin-top: 500px;
+    text-decoration: dotted;
+}
+.tel{
+    color: white;
+    margin-right: 100px;
+    text-decoration: dotted;
+}
+.ig{
+    color:aquamarine;
+    margin-right: 100px;
+    text-decoration: dotted;
+}
+.footer1{
+    background-color: black;
+color: white;
+text-align: center;
+padding: 1px;
+margin-top: 2px;
+}
